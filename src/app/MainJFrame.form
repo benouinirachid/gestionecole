@@ -85,7 +85,7 @@
               <Font name="Tahoma" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/app/images/student.png"/>
+              <Image iconType="3" name="/app/images/student_64.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="&#x641;&#x636;&#x627;&#x621; &#x627;&#x644;&#x62a;&#x644;&#x645;&#x64a;&#x630;"/>
             <Property name="horizontalTextPosition" type="int" value="0"/>
@@ -102,7 +102,7 @@
               <Font name="Tahoma" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/app/images/professor.png"/>
+              <Image iconType="3" name="/app/images/staffs_64.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="&#x641;&#x636;&#x627;&#x621; &#x627;&#x644;&#x645;&#x624;&#x637;&#x631;&#x64a;&#x646;"/>
             <Property name="horizontalTextPosition" type="int" value="0"/>
@@ -119,7 +119,7 @@
               <Font name="Tahoma" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/app/images/school.png"/>
+              <Image iconType="3" name="/app/images/school_64.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="&#x627;&#x644;&#x641;&#x636;&#x627;&#x621; &#x627;&#x644;&#x625;&#x62f;&#x627;&#x631;&#x64a;"/>
             <Property name="horizontalTextPosition" type="int" value="0"/>
@@ -136,7 +136,7 @@
               <Font name="Tahoma" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/app/images/activity.png"/>
+              <Image iconType="3" name="/app/images/artist_64.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="&#x623;&#x646;&#x634;&#x637;&#x629; &#x627;&#x644;&#x645;&#x624;&#x633;&#x633;&#x629;"/>
             <Property name="horizontalTextPosition" type="int" value="0"/>
@@ -153,7 +153,7 @@
               <Font name="Tahoma" size="12" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/app/images/search.png"/>
+              <Image iconType="3" name="/app/images/book_64_.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="&#x628;&#x62d;&#x62b;"/>
             <Property name="toolTipText" type="java.lang.String" value=""/>
